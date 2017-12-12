@@ -1,0 +1,33 @@
+{
+  "name": "mmt",
+  "version": "1.0.0",
+  "description": "hey! mamta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mamta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "eslint": "^4.9.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "request": "^2.83.0",
+    "socket-io": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamtadhaker/Nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mamtadhaker/Nodejs/issues"
+  },
+  "homepage": "https://github.com/mamtadhaker/Nodejs#readme"
+}
